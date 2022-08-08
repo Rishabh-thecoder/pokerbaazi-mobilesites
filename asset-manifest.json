@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokerbaazi-mobilesites/static/css/main.44994e71.css",
+    "main.js": "/pokerbaazi-mobilesites/static/js/main.ec22f9a8.js",
+    "static/js/787.b2709e80.chunk.js": "/pokerbaazi-mobilesites/static/js/787.b2709e80.chunk.js",
+    "index.html": "/pokerbaazi-mobilesites/index.html",
+    "main.44994e71.css.map": "/pokerbaazi-mobilesites/static/css/main.44994e71.css.map",
+    "main.ec22f9a8.js.map": "/pokerbaazi-mobilesites/static/js/main.ec22f9a8.js.map",
+    "787.b2709e80.chunk.js.map": "/pokerbaazi-mobilesites/static/js/787.b2709e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44994e71.css",
+    "static/js/main.ec22f9a8.js"
+  ]
+}
