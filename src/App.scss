@@ -1,0 +1,68 @@
+//background colors are here
+$global-blue:#041b67;
+$global-black:#000;
+$global-gray:#aaa;
+$global-box-shadow:0 2px 6px rgb(0 0 0 / 20%);
+
+
+//color are here
+$white-color:#fff;
+
+//font sizes are here
+$font-14:14px;
+$font-20:20px;
+
+h1,h2,h3,h4,h5,h6{
+  color: $global-blue;
+}
+body{
+  font-size: $font-14 !important;
+}
+.blue-box
+{
+  background-color: $global-blue;
+  color: $white-color;
+  text-align: center;
+  font-size: $font-20;
+}
+.black-box
+{
+  @extend .blue-box;
+  background-color: $global-black;
+}
+.white-box
+{
+  background-color: $white-color;
+  box-shadow:$global-box-shadow;
+  padding: 15px;
+  margin: 15px;
+}
+.nav-pills 
+{ background-color: $white-color;
+  .nav-link
+  {
+    background-color: transparent !important;
+    color: $global-gray !important;
+    font-weight: 500;
+    font-size: $font-14;
+    
+  }
+ .active{
+    color: $global-blue !important;
+  }
+}
+
+
+//padding here
+.pb-24{padding-bottom: 24px;} 
+//padings end
+
+//margin here
+.mb-22{margin-bottom: 22px;}
+//margin end
+
+.tnc-points
+{
+  font-size: $font-14;
+  text-align: justify;
+}

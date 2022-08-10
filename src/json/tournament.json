@@ -1,0 +1,407 @@
+[
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#1",
+      "Time": "2:00 PM",
+      "Name": "Kickoff 20L GTD (RE)",
+      "Buy-in": 3500,
+      "Fee": 350,
+      "Guarantee": "20L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#2",   
+      "Time": "4:00 PM",
+      "Name": "5L GTD (PLO-6 RE)",
+      "Buy-in": 1250,
+      "Fee": 125,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#3",
+      "Time": "6:00 PM",
+      "Name": "15L GTD (RE)",
+      "Buy-in": 3000,
+      "Fee": 300,
+      "Guarantee": "15L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#4",
+      "Time": "7:00 PM",
+      "Name": "Sunday Prime 20L GTD (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": "20L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#5",
+      "Time": "8:00 PM",
+      "Name": "10L GTD (PKO- RE)",
+      "Buy-in": "2000+500",
+      "Fee": 200,
+      "Guarantee": "10L"
+    },
+    {
+      "Day": "Monday",
+      "Sno": "BTS#6",
+      "Time": "4:00 PM",
+      "Name": "4L GTD (RE)",
+      "Buy-in": 900,
+      "Fee": 90,
+      "Guarantee": "4L"
+    },
+    {
+      "Day": "Monday",
+      "Sno": "BTS#7",
+      "Time": "5:00 PM",
+      "Name": "6L GTD (RE)",
+      "Buy-in": 1250,
+      "Fee": 125,
+      "Guarantee": "6L"
+    },
+    {
+      "Day": "Monday",
+      "Sno": "BTS#8",
+      "Time": "6:00 PM",
+      "Name": "Hyper 4L GTD (RE)",
+      "Buy-in": 900,
+      "Fee": 90,
+      "Guarantee": "4L"
+    },
+    {
+      "Day": "Monday",
+      "Sno": "BTS#9",
+      "Time": "7:30 PM",
+      "Name": "Monday Prime 15L GTD (RE)",
+      "Buy-in": 3500,
+      "Fee": 350,
+      "Guarantee": "15L"
+    },
+    {
+      "Day": "Monday",
+      "Sno": "BTS#10",
+      "Time": "9:00 PM",
+      "Name": "8L GTD (RE)",
+      "Buy-in": 2000,
+      "Fee": 200,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Tuesday",
+      "Sno": "BTS#11",
+      "Time": "4:00 PM",
+      "Name": "5L GTD (RE)",
+      "Buy-in": 1000,
+      "Fee": 100,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Tuesday",
+      "Sno": "BTS#12",
+      "Time": "5:00 PM",
+      "Name": "Hyper 6L GTD (RE)",
+      "Buy-in": 1500,
+      "Fee": 150,
+      "Guarantee": "6L"
+    },
+    {
+      "Day": "Tuesday",
+      "Sno": "BTS#13",
+      "Time": "6:00 PM",
+      "Name": "PLO-6 7L GTD (RE)",
+      "Buy-in": 2000,
+      "Fee": 200,
+      "Guarantee": "7L"
+    },
+    {
+      "Day": "Tuesday",
+      "Sno": "BTS#14",
+      "Time": "7:30 PM",
+      "Name": "Tuesday Prime 15L GTD (RE)",
+      "Buy-in": 3000,
+      "Fee": 300,
+      "Guarantee": "15L"
+    },
+    {
+      "Day": "Tuesday",
+      "Sno": "BTS#15",
+      "Time": "9:00 PM",
+      "Name": "Freeze-Out 5L GTD (FO)",
+      "Buy-in": 1500,
+      "Fee": 150,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#16",
+      "Time": "4:00 PM",
+      "Name": "5L GTD (RE)",
+      "Buy-in": 1000,
+      "Fee": 100,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#17",
+      "Time": "5:00 PM",
+      "Name": "Hyper 7L GTD (RE)",
+      "Buy-in": 1500,
+      "Fee": 150,
+      "Guarantee": "7L"
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#18",
+      "Time": "6:00 PM",
+      "Name": "8L GTD (KO-RE)",
+      "Buy-in": "1600+400",
+      "Fee": 2000,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#19",
+      "Time": "7:30 PM",
+      "Name": "Mini Main Event 25L GTD",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": "25L"
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#20",
+      "Time": "8:30 PM",
+      "Name": "1 CR GTD Main Event Day 1A (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": ""
+    },
+    {
+      "Day": "Wednesday",
+      "Sno": "BTS#21",
+      "Time": "9:00 PM",
+      "Name": "8L GTD (WTB - RE)",
+      "Buy-in": 2000,
+      "Fee": 200,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#22",
+      "Time": "4:00 PM",
+      "Name": "5L GTD (RE)",
+      "Buy-in": 1000,
+      "Fee": 100,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#23",
+      "Time": "5:00 PM",
+      "Name": "8L GTD (RE)",
+      "Buy-in": 2000,
+      "Fee": 200,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#24",
+      "Time": "6:00 PM",
+      "Name": "PLO-5 5L GTD (RE)",
+      "Buy-in": 1250,
+      "Fee": 125,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#25",
+      "Time": "7:30 PM",
+      "Name": "Thursday Prime 18L GTD",
+      "Buy-in": 3500,
+      "Fee": 350,
+      "Guarantee": "18L"
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#26",
+      "Time": "8:30 PM",
+      "Name": "1 CR GTD Main Event Day 1B (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": ""
+    },
+    {
+      "Day": "Thursday",
+      "Sno": "BTS#27",
+      "Time": "9:00 PM",
+      "Name": "7L GTD (RE)",
+      "Buy-in": 1500,
+      "Fee": 150,
+      "Guarantee": "7L"
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#28",
+      "Time": "4:00 PM",
+      "Name": "3L GTD (RE)",
+      "Buy-in": 600,
+      "Fee": 60,
+      "Guarantee": "3L"
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#29",
+      "Time": "5:00 PM",
+      "Name": "Hyper Turbo 8L GTD",
+      "Buy-in": 2000,
+      "Fee": 200,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#30",
+      "Time": "6:00 PM",
+      "Name": "10L GTD (RE)",
+      "Buy-in": 2500,
+      "Fee": 250,
+      "Guarantee": "10L"
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#31",
+      "Time": "7:30 PM",
+      "Name": "HighRoller 35L GTD",
+      "Buy-in": 10000,
+      "Fee": 1000,
+      "Guarantee": "35L"
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#32",
+      "Time": "8:30 PM",
+      "Name": "1 CR GTD Main Event Day 1C (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": ""
+    },
+    {
+      "Day": "Friday",
+      "Sno": "BTS#33",
+      "Time": "9:00 PM",
+      "Name": "10L GTD (RE)",
+      "Buy-in": 2500,
+      "Fee": 250,
+      "Guarantee": "10L"
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#34",
+      "Time": "4:00 PM",
+      "Name": "Hyper 5L GTD",
+      "Buy-in": 900,
+      "Fee": 90,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#35",
+      "Time": "5:00 PM",
+      "Name": "5L GTD (RE)",
+      "Buy-in": 1250,
+      "Fee": 125,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#36",
+      "Time": "6:00 PM",
+      "Name": "6L GTD (KO-RE)",
+      "Buy-in": "1250+750",
+      "Fee": 200,
+      "Guarantee": "6L"
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#37",
+      "Time": "7:30 PM",
+      "Name": "PLO-6 HighRoller 12L GTD (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": "12L"
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#38",
+      "Time": "8:30 PM",
+      "Name": "1 CR GTD Main Event Day 1D (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": ""
+    },
+    {
+      "Day": "Saturday",
+      "Sno": "BTS#39",
+      "Time": "9:00 PM",
+      "Name": "5L GTD (RE)",
+      "Buy-in": 1000,
+      "Fee": 100,
+      "Guarantee": "5L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#40",
+      "Time": "2:00 PM",
+      "Name": "1 CR GTD Main Event Day 1E (Hyper Turbo)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": ""
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#41",
+      "Time": "4:00 PM",
+      "Name": "10L GTD (PKO-RE)",
+      "Buy-in": "2000+500",
+      "Fee": 250,
+      "Guarantee": "10L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#42",
+      "Time": "6:00 PM",
+      "Name": "8L GTD (RE)",
+      "Buy-in": 1500,
+      "Fee": 150,
+      "Guarantee": "8L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#43",
+      "Time": "7:00 PM",
+      "Name": "Sunday Prime 20L GTD (RE)",
+      "Buy-in": 4000,
+      "Fee": 400,
+      "Guarantee": "20L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#44",
+      "Time": "8:00 PM",
+      "Name": "After Party 10L GTD",
+      "Buy-in": 2500,
+      "Fee": 250,
+      "Guarantee": "10L"
+    },
+    {
+      "Day": "Sunday",
+      "Sno": "BTS#45",
+      "Time": "8:30 PM",
+      "Name": "1 CR GTD Main Event Day 2",
+      "Buy-in": "",
+      "Fee": "",
+      "Guarantee": "1CR"
+    }
+  ]
